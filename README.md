@@ -52,6 +52,24 @@ Planning on creating a dashboard to help people, based off their risk tolerance,
 * Pilot testing of the dashboard
 * Live Production
 
+## Final documents
+
+* Baby-Yoda Dashboard w codes: 'https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Baby%20Yoda%20Dashboard%20Final.ipynb'
+* Baby-Yoda Simulator (codes): 'https://github.com/NinoslavVasic/Baby-Yoda/blob/master/yoda_simulator.py'
+
+# Presentation
+
+
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide1.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide2.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide3.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide4.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide5.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide6.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide7.PNG)
+![](https://github.com/NinoslavVasic/Baby-Yoda/blob/master/Final%20Baby%20Yoda%20Presentation%20(1)/Slide8.PNG)
+
+
 
 
 
